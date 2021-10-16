@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+#list-row{
+ border: 1px solid #282c34;
+ width: 100%;
+}
+#board-row{
+  border: 1px solid #282c34;
+  width: 100%;
+ }
+ #middle-col{
+  border-left: 1px dashed #282c34;
+  border-right: 1px dashed #282c34;
+ }
